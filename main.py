@@ -1,0 +1,1 @@
+# Python nie jest kompilowany, ale jest językiem interpretowanym
